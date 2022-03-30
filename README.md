@@ -7,4 +7,5 @@ As tecnologias que conheço são:
  - Django
  - Html
  - Pandas
- - Um pouco de Machine Learning 
+ - Um pouco de Machine Learning
+Eu trabalho em um acer de 8 gb de ram 
