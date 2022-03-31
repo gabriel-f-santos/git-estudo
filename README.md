@@ -11,9 +11,15 @@ As tecnologias que conheço são:
  - Html
  - Pandas
 
+
  - Um pouco de Machine Learning 
 
 
 
 Eu trabalho em um acer de 8 gb de ram 
+
+
+
+
+ 
 
